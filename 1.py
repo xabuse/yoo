@@ -135,12 +135,14 @@ make the code work -> optimize
 
 
 
+
 [before 01.04]bootstrap, js~, continue mastering laravel
 [before 01.06]job(mysql, php, laravel, oop, html css js bootstrap, rest api, docker, github)
 [???]vue FOR 99999$
 ??? tailwind, npm, CI/CD
 
 # i think i should master laravel for job. without laravel and with good vue customers pay 0. with laravel and bootstrap customers pay 1000+
+
 
 
 
