@@ -100,7 +100,9 @@ make the code work -> optimize
 # ///
 # ///
 
-[] add this to github(2 files)
+# [x] add this to github(2 files)
+
+[] let's test will I able to change this file from phone and then merge it
 
 [before 01.03] laravel
     [] laracast 30 days course 
