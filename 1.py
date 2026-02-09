@@ -104,11 +104,11 @@ make the code work -> optimize
 
 # [x] let's test will I able to change this file from phone and then merge it 
 
-[before 01.03] laravel
+[before 15.03] laravel
     [] laracast 30 days course 
     [] pet project(laravel, mysql, bootstrap, js)
         [] routines(daily, weekly), block key
-        [] 90->10/15(can choose 1-3)
+        [] timer(4 hr???)
         [] this file for projects
         [] keep in mind page(for phrases like "fuck ai")
     [] get review from people on your project
@@ -142,7 +142,7 @@ make the code work -> optimize
 
 
 
-[before 01.04]bootstrap, js~, continue mastering laravel
+[before 15.04]ask for resume advice, start learning the theory for interviews
 [before 01.06]job(mysql, php, laravel, oop, html css js bootstrap, rest api, docker, github)
 [???]vue FOR 99999$
 ??? tailwind, npm, CI/CD
