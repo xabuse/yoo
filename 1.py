@@ -107,6 +107,7 @@ make the code work -> optimize
 [before 15.03] laravel
     [] laracast 30 days course 
     [] pet project(laravel, mysql, bootstrap, js)
+        [] think what u want to see in your project
         [] routines(daily, weekly), block key
         [] timer(4 hr???)
         [] this file for projects
