@@ -1,6 +1,7 @@
 only eng
 fuck ai
 make the code work -> optimize
+create cool stuff. You write the code for it(and for money from it)
 # ///
 # ///
 # ///
@@ -107,7 +108,10 @@ make the code work -> optimize
 [before 15.03] laravel
     [] laracast 30 days course 
     [] pet project(laravel, mysql, bootstrap, js)
-        [] think what u want to see in your project
+        [] think what u want to see in your project. What makes it cool for you?
+            [] ///
+            [] /// 
+            [] ///
         [] routines(daily, weekly), block key(what do i want to get? -> what i shoul do for it?)
         [] timer(4 hr???) for task. can choose time for each routine task. can set in advance
         [] this file for projects
