@@ -108,8 +108,8 @@ make the code work -> optimize
     [] laracast 30 days course 
     [] pet project(laravel, mysql, bootstrap, js)
         [] think what u want to see in your project
-        [] routines(daily, weekly), block key
-        [] timer(4 hr???)
+        [] routines(daily, weekly), block key(what do i want to get? -> what i shoul do for it?)
+        [] timer(4 hr???) for task. can choose time for each routine task. can set in advance
         [] this file for projects
         [] keep in mind page(for phrases like "fuck ai")
     [] get review from people on your project
