@@ -107,6 +107,10 @@ make the code work -> optimize
 [before 01.03] laravel
     [] laracast 30 days course 
     [] pet project(laravel, mysql, bootstrap, js)
+        [] routines(daily, weekly), block key
+        [] 90->10/15(can choose 1-3)
+        [] this file for projects
+        [] keep in mind page(for phrases like "fuck ai")
     [] get review from people on your project
 
 
