@@ -106,10 +106,10 @@ create cool stuff. You write the code for it(and for money from it)
 # [x] let's test will I able to change this file from phone and then merge it 
 
 [before 15.03] laravel
-    [] laracast 30 days course 
+    [] laracast 30 days course
     [] pet project(laravel, mysql, bootstrap, js)
         [] think what u want to see in your project. What makes it cool for you?
-            [] ///
+            [] calendar may be
             [] /// 
             [] ///
             [] routines(daily, weekly), block key(what do i want to get? -> what i shoul do for it?)
