@@ -1,0 +1,23 @@
+alt + j = выделить чего то много одинакового
+ctrl + w = расширить выделение
+ctrl + d = продублировать строку
+ctrl + alt + l = форматирование
+ctrl + shift + enter = добавить ; в конец строки
+слева браузер справа пхпшторм крутая темка
+16 16 16, dark, Render documentation comments
+
+можешь объяснить что то = ты понял это что то
+
+# Если чето не выкупаешь - можешь глянуть в starter kit ларавеля, в доке, в других проектах
+
+# как называть приколы(show, destroy, etc)
+php artisan route:list --except-vendor 
+
+# зайти в докер файловый
+docker exec -it laravelfirst-laravel.test-1 /bin/bash
+
+# фиксит баг, когда ты создаешь новый контроллер артизаном
+sudo chown -R $(whoami) laravelFirst/
+
+# fix wsl with vpn
+https://superuser.com/questions/1630487/why-do-i-have-no-internet-connection-on-ubuntu-wsl-while-on-a-vpn
