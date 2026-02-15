@@ -110,7 +110,7 @@ create cool stuff. You write the code for it(and for money from it)
     [] pet project(laravel, mysql, bootstrap, js)
         [] think what u want to see in your project. What makes it cool for you?
             [] calendar may be
-            [] /// 
+            [] what u want? - what u do for it
             [] ///
             [] routines(daily, weekly), block key(what do i want to get? -> what i shoul do for it?)
             [] timer(4 hr???) for task. can choose time for each routine task. can set in advance
