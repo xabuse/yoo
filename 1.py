@@ -111,7 +111,7 @@ create cool stuff. You write the code for it(and for money from it)
         [] think what u want to see in your project. What makes it cool for you?
             [] calendar may be
             [] what u want? - what u do for it
-            [] ///
+            [] lock routine for day/week/etc, make reason for a change
             [] routines(daily, weekly), block key(what do i want to get? -> what i shoul do for it?)
             [] timer(4 hr???) for task. can choose time for each routine task. can set in advance
             [] this file for projects
@@ -147,7 +147,7 @@ create cool stuff. You write the code for it(and for money from it)
 
 
 
-[before 15.04]ask for resume advice, start learning the theory for interviews
+[before 1for 4]ask for resume advice, start learning the theory for interviews
 [before 01.06]job(mysql, php, laravel, oop, html css js bootstrap, rest api, docker, github)
 [???]vue FOR 99999$
 ??? tailwind, npm, CI/CD
