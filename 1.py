@@ -120,6 +120,7 @@ create cool stuff. You write the code for it(and for money from it)
             [] this file(add button from below, implement something like tabs, comment on things done, the ability to hide things done)
             [] description?
             [] what will the project provide?
+            [] done/not done
         [] notes page?
     [] get review from people on project
 
