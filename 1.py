@@ -105,7 +105,8 @@ create cool stuff. You write the code for it(and for money from it)
 
 # [x] let's test will I able to change this file from phone and then merge it 
 
-# now i am use for good work: !timer(90-10-90), !routine(good hp=good work), !decomposition(this), !how to react on anxiety(keep in mind?)(notes?)
+# now i am use for good work: !timer(90-10-90), !decomposition(this) 
+# for life: !routine, ?how to react on anxiety(notes?)
 [before 15.03] laravel project
     [] laracast 30 days course
     [] pet project(laravel(php 8.5, blade), mysql, bootstrap, js)
@@ -115,12 +116,11 @@ create cool stuff. You write the code for it(and for money from it)
             [] lock routine for day/week/etc, make reason for a change(can unlock anytime btw)
             [] calendar mb
             [] timer(90 -> 10 -> 90)
-        [] keep in mind page(for phrases like "fuck ai")
-            [] add button ??? 
-        [] project page
+        [] projects page
             [] this file(add button from below, implement something like tabs, comment on things done, the ability to hide things done)
             [] description?
             [] what will the project provide?
+        [] notes page?
     [] get review from people on project
 
 
@@ -152,10 +152,10 @@ create cool stuff. You write the code for it(and for money from it)
 
 
 
-[before 1for 4]ask for resume advice, start learning the theory for interviews
-[before 01.06]job(mysql, php, laravel, oop, html css js bootstrap, rest api, docker, github)
-[???]vue FOR 99999$
-??? tailwind, npm, CI/CD
+[before 01.04] ask for resume advice, start learning the theory for interviews
+[before 01.06] job(mysql, php, laravel, oop, html css js bootstrap, rest api, docker, github)
+[???] vue FOR 99999$
+[???] vue + laravel = any freelance project(999999999$)
 
 # i think i should master laravel for job. without laravel and with good vue customers pay 0. with laravel and bootstrap customers pay 1000+
 
