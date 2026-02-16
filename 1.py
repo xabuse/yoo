@@ -105,7 +105,7 @@ create cool stuff. You write the code for it(and for money from it)
 
 # [x] let's test will I able to change this file from phone and then merge it 
 
-# now i am use for good work: !timer(90-10-90), !decomposition(this) 
+# now i am use for good work: !timer(90-10-90)-10-40, !decomposition(this) 
 # for life: !routine, ?how to react on anxiety(notes?)
 [before 15.03] laravel project
     [] laracast 30 days course
