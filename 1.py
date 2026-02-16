@@ -105,7 +105,7 @@ create cool stuff. You write the code for it(and for money from it)
 
 # [x] let's test will I able to change this file from phone and then merge it 
 
-# now i am use: !timer, !routine, !decomposition(this), !how to react on anxiety(keep in mind?), -interview(in notion because it has colors and styles)(md)
+# now i am use for good work: !timer(90-10-90), !routine(good hp=good work), !decomposition(this), !how to react on anxiety(keep in mind?)(notes?)
 [before 15.03] laravel project
     [] laracast 30 days course
     [] pet project(laravel(php 8.5, blade), mysql, bootstrap, js)
@@ -120,6 +120,7 @@ create cool stuff. You write the code for it(and for money from it)
         [] project page
             [] this file(add button from below, implement something like tabs, comment on things done, the ability to hide things done)
             [] description?
+            [] what will the project provide?
     [] get review from people on project
 
 
