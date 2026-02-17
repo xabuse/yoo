@@ -108,13 +108,12 @@ create cool stuff. You write the code for it(and for money from it)
 # now i am use for good work: !timer(90-10-90)-10-40, !decomposition(this) 
 # for life: !routine, ?how to react on anxiety(notes?)
 [before 15.03] laravel project
-    [] laracast 30 days course
+    # [x] laracast 30 days course
     [] pet project(laravel(php 8.5, blade), mysql, bootstrap, js)
         [] routine page
             [] every x day, every monday/etc
             [] what u want? - what u do for it
-            [] lock routine for day/week/etc, make reason for a change(can unlock anytime btw)
-            [] calendar mb
+            [] calendar mb(left to right)
             [] timer(90 -> 10 -> 90)
         [] projects page
             [] this file(add button from below, implement something like tabs, comment on things done, the ability to hide things done)
