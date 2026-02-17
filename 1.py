@@ -114,6 +114,9 @@ create cool stuff. You write the code for it(and for money from it)
     [] get review from people on project
 
 
+[before 15.04] laravel api + vue spa
+	[] same project
+								
 
 
 
@@ -143,11 +146,10 @@ create cool stuff. You write the code for it(and for money from it)
 
 
 
-
-[before 01.04] ask for resume advice, start learning the theory for interviews
+[01.04] ask for resume advice, start learning the theory for interviews
 [before 01.06] job(mysql, php, laravel, oop, html css js bootstrap, rest api, docker, github)
 [???] vue FOR 99999$
-[???] vue + laravel = any freelance project(999999999$)
+[???] vue spa + laravel api = any freelance project(999999999$)
 
 # i think i should master laravel for job. without laravel and with good vue customers pay 0. with laravel and bootstrap customers pay 1000+
 
