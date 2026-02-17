@@ -112,6 +112,7 @@ create cool stuff. You write the code for it(and for money from it)
         [] create project with starterpack
 		[] implement authorization
     [] get review from people on project
+	[] show it to hoomies
 
 
 [before 15.04] laravel api + vue spa
