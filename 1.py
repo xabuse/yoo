@@ -105,12 +105,12 @@ create cool stuff. You write the code for it(and for money from it)
 
 # [x] let's test will I able to change this file from phone and then merge it 
 
-# this file(projects(done or not)), routine page(dayly, weekly, timer), notes(like google keep)
+# projects(this file + done or not), routine(habitica), notes(google keep)
 [before 15.03] laravel project
     # [x] laracast 30 days course
     [] pet project(laravel(php 8.5, blade), mysql, bootstrap, js)
         [] create project with starterpack
-		[] authorization
+		[] implement authorization
     [] get review from people on project
 
 
