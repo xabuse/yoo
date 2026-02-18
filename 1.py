@@ -118,7 +118,7 @@ create cool stuff. You write the code for it(and for money from it)
 			[] auth check
 			[] full api(index, create, update, destroy...)
 			[] bootstrap page for this
-		
+		[] create github
     [] get review from people on project
 	[] show it to hoomies
 
