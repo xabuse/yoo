@@ -113,7 +113,7 @@ create cool stuff. You write the code for it(and for money from it)
 		# [x] implement authorization
 		# [x] connect bootstrap
 		[] project page
-			[] create db for this(migration)(id, user_id, is_done, header, text
+			[] create table for this(id, user_id, is_done, header, text) "php artisan make:model Project -m"
 			[] /project route
 			[] auth check
 			[] full api(index, create, update, destroy...)
