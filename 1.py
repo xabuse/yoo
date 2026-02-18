@@ -109,8 +109,16 @@ create cool stuff. You write the code for it(and for money from it)
 [before 15.03] laravel project
     # [x] laracast 30 days course
     [] pet project(laravel(php 8.5, blade), mysql, bootstrap, js)
-        [] create project with starterpack
-		[] implement authorization
+		# [x] create project with starterpack
+		# [x] implement authorization
+		# [x] connect bootstrap
+		[] project page
+			[] create db for this(migration)(id, user_id, is_done, header, text
+			[] /project route
+			[] auth check
+			[] full api(index, create, update, destroy...)
+			[] bootstrap page for this
+		
     [] get review from people on project
 	[] show it to hoomies
 
