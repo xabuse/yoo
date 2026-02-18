@@ -13,11 +13,23 @@ ctrl + shift + enter = добавить ; в конец строки
 # зайти в докер файловый
 docker exec -it laravelfirst-laravel.test-1 /bin/bash
 
+
+
+# # # # # # # # #
+# # # # # # # # #
+# # # # # # # # #
+WINDOWS
+# # # # # # # # #
+# # # # # # # # #
+# # # # # # # # #
+
 # фиксит баг, когда ты создаешь новый контроллер артизаном
 sudo chown -R $(whoami) laravelFirst/
 
 # fix wsl with vpn
 https://superuser.com/questions/1630487/why-do-i-have-no-internet-connection-on-ubuntu-wsl-while-on-a-vpn
+
+
 
 # # # # # # # # #
 # # # # # # # # #
