@@ -10,9 +10,6 @@ ctrl + shift + enter = добавить ; в конец строки
 
 # Если чето не выкупаешь - можешь глянуть в starter kit ларавеля, в доке, в других проектах
 
-# как называть приколы(show, destroy, etc), check route
-php artisan route:list --except-vendor 
-
 # зайти в докер файловый
 docker exec -it laravelfirst-laravel.test-1 /bin/bash
 
@@ -21,6 +18,14 @@ sudo chown -R $(whoami) laravelFirst/
 
 # fix wsl with vpn
 https://superuser.com/questions/1630487/why-do-i-have-no-internet-connection-on-ubuntu-wsl-while-on-a-vpn
+
+# # # # # # # # #
+# # # # # # # # #
+# # # # # # # # #
+LARAVEL
+# # # # # # # # #
+# # # # # # # # #
+# # # # # # # # #
 
 # start new laravel project
 /bin/bash -c "$(curl -fsSL https://php.new/install/linux/8.4)"
@@ -33,3 +38,9 @@ php artisan sail:install
 ./vendor/bin/sail down
 ./vendor/bin/sail up -d
 ./vendor/bin/sail artisan migrate
+
+# как называть приколы(show, destroy, etc), check route
+php artisan route:list --except-vendor 
+
+# check artisan commands 
+php artisan list make or php artisan list
