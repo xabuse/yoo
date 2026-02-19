@@ -108,30 +108,30 @@ create cool stuff. You write the code for it(and for money from it)
 # code helper(decomposition, projects, timer)
 # life helper(routine, notes)								 
 # projects(this file + done or not), routine(habitica, calendar, how many days until next), notes(google keep)
-[before 15.03] laravel project
+[before 15.03] laravel project(php, blade, bootstrap, mysql, js)
     # [x] laracast 30 days course
-    [] pet project(laravel(php 8.5, blade), mysql, bootstrap, js)
-		# [x] create project with starterpack
-		# [x] implement authorization
-		# [x] connect bootstrap
-		[] project page
-			# [x] draw, drop a link - https://excalidraw.com/#json=arSS84Do5pJQdeeiGzZrF,4zb7UHop8hgTDSTkSKnkLg
-			# [x] create model, migration(id, user_id, is_done, name, comments), controller, route
-			[x] create small register and login
-				[] add frontend validation from course
-			# [x] auth check
-			[] bootstrap project page(delete, desc update, create)
-			[] tasks in each project
-		[] create github
-		[] routines page
-			[]
-			[]
-			[]
-		[] notes page
-			[]
-			[]
-			[]						 
-		[] 2fa
+	# [x] create project with starterpack
+	# [x] implement authorization
+	# [x] connect bootstrap
+	[] project page
+		# [x] draw, drop a link - https://excalidraw.com/#json=arSS84Do5pJQdeeiGzZrF,4zb7UHop8hgTDSTkSKnkLg
+		# [x] projects: create model, migration(id, user_id, is_done, name, comments), controller, route 
+		[x] create small register and login
+			[] add frontend validation from course
+			[] log in failure messages
+		# [x] auth check
+		[] bootstrap project page(delete, desc update, create)
+		[] tasks in each project
+	[] create github
+	[] routines page
+		[]
+		[]
+		[]
+	[] notes page
+		[]
+		[]
+		[]						 
+	[] 2fa
     [] get review from people on project
 	[] show it to hoomies
 
