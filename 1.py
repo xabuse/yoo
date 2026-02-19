@@ -118,12 +118,20 @@ create cool stuff. You write the code for it(and for money from it)
 			# [x] draw, drop a link - https://excalidraw.com/#json=arSS84Do5pJQdeeiGzZrF,4zb7UHop8hgTDSTkSKnkLg
 			# [x] create model, migration(id, user_id, is_done, name, comments), controller, route
 			[x] create small register and login
-				[] add frontend validation from cource
+				[] add frontend validation from course
 			# [x] auth check
 			[] bootstrap project page(delete, desc update, create)
 			[] tasks in each project
 		[] create github
-		[] 
+		[] routines page
+			[]
+			[]
+			[]
+		[] notes page
+			[]
+			[]
+			[]						 
+		[] 2fa
     [] get review from people on project
 	[] show it to hoomies
 
