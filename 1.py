@@ -136,7 +136,7 @@ create cool stuff. You write the code for it(and for money from it)
 	[] show it to hoomies
 
 
-[before 15.04] laravel api + vue spa
+[before 15.04] laravel api + vue (mb collab?)
 	[] same project
 								
 
