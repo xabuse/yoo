@@ -114,16 +114,20 @@ create cool stuff. You write the code for it(and for money from it)
 	# [x] implement authorization
 	# [x] connect bootstrap
 	[] project page
-		# [x] draw, drop a link - https://excalidraw.com/#json=arSS84Do5pJQdeeiGzZrF,4zb7UHop8hgTDSTkSKnkLg
+		# [x] draw, drop a link - https://excalidraw.com/#json=mJkNGzhTg_HkXnI9P-jWr,UgDOsQv4FfuGq4P7Q1aHYQ
 		# [x] projects: create model, migration(id, user_id, is_done, name, comments), controller, route 
 		# [x] create small register and login
 		# 	[x] add frontend validation from course
 		# 	[x] log in failure messages
 		# [x] auth check
-		[] index page without tasks
-		[] create page
+		# [x] index page without tasks
+		[x] create page(name, some comments)
+			[] save to db
 		[] index page full
 		[] edit page(delete)
+	[] nav
+		[] highlight active page
+		[] fix absolute(margin or stmh like this)
 	[] create github
 	[] routines page
 		[]
