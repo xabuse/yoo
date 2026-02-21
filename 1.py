@@ -136,7 +136,7 @@ create cool stuff. You write the code for it(and for money from it)
 			[] get (tasks) from db by id in url
 	[] nav
 		[] highlight active page
-		[] fix absolute(margin or stmh like this)
+		[x] fix absolute(margin or stmh like this)
 	[] create github
 	[] routines page
 		[]
