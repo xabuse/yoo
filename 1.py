@@ -108,7 +108,7 @@ create cool stuff. You write the code for it(and for money from it)
 # code helper(decomposition, projects, timer)
 # life helper(routine, notes)								 
 # projects(this file + done or not), routine(habitica, calendar, how many days until next), notes(google keep)
-[before 15.03] laravel project(php, blade, bootstrap, mysql, js)
+[before 01.03] laravel project(php, blade, bootstrap, mysql, js)
     # [x] laracast 30 days course
 	# [x] create project with starterpack
 	# [x] implement authorization
@@ -151,7 +151,7 @@ create cool stuff. You write the code for it(and for money from it)
 	[] show it to hoomies
 
 
-[before 15.04] laravel api + vue (mb collab?)
+[before 15.03] laravel api + vue (mb collab?)
 	[] same project
 								
 
