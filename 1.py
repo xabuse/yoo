@@ -151,7 +151,7 @@ create cool stuff. You write the code for it(and for money from it)
 	[] show it to hoomies
 
 
-[before 15.03] laravel api + vue (mb collab?)
+[before 15.03] laravel api + vue + tailwind(mb collab?)
 	[] same project
 								
 
