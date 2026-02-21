@@ -114,17 +114,26 @@ create cool stuff. You write the code for it(and for money from it)
 	# [x] implement authorization
 	# [x] connect bootstrap
 	[] project page
-		# [x] draw, drop a link - https://excalidraw.com/#json=mJkNGzhTg_HkXnI9P-jWr,UgDOsQv4FfuGq4P7Q1aHYQ
+		# [x] draw, drop a link - https://excalidraw.com/#json=MU3dFXm31xOc-B_dTB_cC,ARKnmIgsXX0yvnqn_PvmIQ
 		# [x] projects: create model, migration(id, user_id, is_done, name, comments), controller, route 
 		# [x] create small register and login
 		# 	[x] add frontend validation from course
 		# 	[x] log in failure messages
 		# [x] auth check
 		# [x] index page without tasks
-		[x] create page(name, some comments)
-			[] save to db
+		# [x] create page(name, some comments)
+		# 	[x] save to db
+		# 	[x] validation
 		[] index page full
+			[] hover effect
+			[] test long name, comment(copy from habitica) 
+			# [x] clickable to projects/{id}/edit
 		[] edit page(delete)
+			[x] get (name, comment) from db by id in url
+				[] implement logic: the user has access only to his own projects(gate?)
+			# [x] fix: i can see projects which i did not create
+			[] create tasks(migration, model, controller)
+			[] get (tasks) from db by id in url
 	[] nav
 		[] highlight active page
 		[] fix absolute(margin or stmh like this)
