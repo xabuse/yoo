@@ -128,13 +128,15 @@ create cool stuff. You write the code for it(and for money from it)
 			[] hover effect
 			[] test long name, comment(copy from habitica) 
 			# [x] clickable to projects/{id}/edit
-		[] edit page(delete)
-			[x] get (name, comment) from db by id in url
-				[] implement logic: the user has access only to his own projects(gate?)
+		[] edit/show page(delete)
+			# [x] get (name, comment) from db by id in url
+			# 	[x] implement logic: the user has access only to his own projects(gate?)
 			# [x] fix: i can see projects which i did not create
-			[] create tasks(migration, model, controller)
+			# [x] create tasks(migration, model, controller, policy)(project_id, is_done, task_text) php artisan make:model Task -mc | php artisan make:policy
+				[] implement logic: if a project with tasks is deleted - delete the tasks https://www.youtube.com/watch?v=x1UCiE0hZiw&list=PL3VM-unCzF8hy47mt9-chowaHNjfkuEVz&index=12
 			[] get (tasks) from db by id in url
-	[] nav
+			[] bootstrap frontend
+	[] nav14
 		[] highlight active page
 		[x] fix absolute(margin or stmh like this)
 	[] create github
