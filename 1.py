@@ -134,14 +134,15 @@ create cool stuff. You write the code for it(and for money from it)
 			# [x] fix: i can see projects which i did not create
 			# [x] create tasks(migration, model, controller, policy)(project_id, is_done, task_text, tabs)
 				# [x] implement logic: if a project with tasks is deleted - delete the tasks https://www.youtube.com/watch?v=x1UCiE0hZiw&list=PL3VM-unCzF8hy47mt9-chowaHNjfkuEVz&index=12
+		[] create github
 			[] task block
 				[] implement create button
 			[] delete
 			[] save
+	
 	[] nav
 		[] highlight active page
 		[x] fix absolute(margin or stmh like this)
-	[] create github
 	[] routines page
 		[]
 		[]
