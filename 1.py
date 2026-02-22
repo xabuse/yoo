@@ -136,6 +136,8 @@ create cool stuff. You write the code for it(and for money from it)
 				# [x] implement logic: if a project with tasks is deleted - delete the tasks https://www.youtube.com/watch?v=x1UCiE0hZiw&list=PL3VM-unCzF8hy47mt9-chowaHNjfkuEVz&index=12
 			[] task block
 				[] implement create button
+			[] delete
+			[] save
 	[] nav
 		[] highlight active page
 		[x] fix absolute(margin or stmh like this)
