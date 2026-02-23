@@ -128,17 +128,18 @@ create cool stuff. You write the code for it(and for money from it)
 			[] hover effect
 			[] test long name, comment(copy from habitica) 
 			# [x] clickable to projects/{id}/edit
-		[] edit/show page(delete)
+		[] edit/show page
 			# [x] get (name, comment) from db by id in url
 			# 	[x] implement logic: the user has access only to his own projects(gate?)
 			# [x] fix: i can see projects which i did not create
 			# [x] create tasks(migration, model, controller, policy)(project_id, is_done, task_text, tabs)
 				# [x] implement logic: if a project with tasks is deleted - delete the tasks https://www.youtube.com/watch?v=x1UCiE0hZiw&list=PL3VM-unCzF8hy47mt9-chowaHNjfkuEVz&index=12
-		[] create github
-			[] task block
-				[] implement create button
+		# [x] create github
+			# [x] task block
+				# [x] implement create button
+				[] implement tab
+			[] update
 			[] delete
-			[] save
 	
 	[] nav
 		[] highlight active page
