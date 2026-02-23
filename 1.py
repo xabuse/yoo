@@ -138,7 +138,10 @@ create cool stuff. You write the code for it(and for money from it)
 			# [x] task block
 				# [x] implement create button
 				[] implement tab
-			[] update(save button)
+				[] fix the low position of the button
+			[] update(save button) https://www.youtube.com/watch?v=syx1tWSZbL8&list=PL3VM-unCzF8hy47mt9-chowaHNjfkuEVz&index=18
+				[] frontend: send json{id from url{}, name{}, comment{}, tasks {}}
+				[] backend: update name, comment, delete tasks, create tasks from json
 			[] delete
 	
 	[] nav
