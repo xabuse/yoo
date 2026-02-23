@@ -138,7 +138,7 @@ create cool stuff. You write the code for it(and for money from it)
 			# [x] task block
 				# [x] implement create button
 				[] implement tab
-			[] update
+			[] update(save button)
 			[] delete
 	
 	[] nav
