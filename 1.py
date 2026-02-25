@@ -164,6 +164,7 @@ create cool stuff. You write the code for it(and for money from it)
 
 [] messager?
 
+[] tg bot?
 
 
 
@@ -194,3 +195,4 @@ create cool stuff. You write the code for it(and for money from it)
 
 [01.04] ask for resume advice, start learning the theory for interviews
 [before 01.06] job(mysql, php, laravel, oop, (html css js bootstrap tailwind, vue), rest api, docker, github)
+				
