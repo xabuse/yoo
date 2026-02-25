@@ -159,10 +159,10 @@ create cool stuff. You write the code for it(and for money from it)
     [] get review from people on project
 	[] show it to hoomies
 
-
 [before 01.04] laravel api + docker + mysql + vue spa + tailwind(mb collab?)
 	[] same project
-								
+
+[] messager?
 
 
 
