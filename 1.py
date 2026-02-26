@@ -150,10 +150,13 @@ the ideal is the enemy of the good
 		[] time input(h, m, s)
 		[] timer 
 
-[before 01.04] laravel api + docker + mysql + vue spa + tailwind(mb collab?)
-	[] same project
+[before 01.04] laravel api + docker + mysql + vue spa
+	[] decomposition(this file)
+	[] timer
+	[?] routines(habitica)
+	[?] notes?
 
-[] messager?
+[fun] messager?
 
 
 
