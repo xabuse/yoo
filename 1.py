@@ -142,10 +142,12 @@ create cool stuff. You write the code for it(and for money from it)
 				# [x] name, comment
 				[] tasks
 			[] delete
-	[] nav
-		[] highlight active page
-		[x] fix absolute(margin or stmh like this)	
+	# [x] nav page
+	# 	[x] highlight active page
+		# [x] fix absolute(margin or stmh like this)	
 	[] timer page
+		[] time input(h, m, s)
+		[] timer 
 
 [before 01.04] laravel api + docker + mysql + vue spa + tailwind(mb collab?)
 	[] same project
