@@ -124,9 +124,9 @@ create cool stuff. You write the code for it(and for money from it)
 		# [x] create page(name, some comments)
 		# 	[x] save to db
 		# 	[x] validation
-		[] index page full
-			[] hover effect
-			[] test long name, comment(copy from habitica) 
+		# [x] index page full
+		# 	[x] hover effect
+		# 	[x] test long name, comment(copy from habitica) 
 			# [x] clickable to projects/{id}/edit
 		[] edit/show page
 			# [x] get (name, comment) from db by id in url
@@ -137,27 +137,15 @@ create cool stuff. You write the code for it(and for money from it)
 		# [x] create github
 			# [x] task block
 				# [x] implement create button
-				[] implement tab
-				[] fix the low position of the button
+				# [x] fix the low position of the button
 			[] update(save button) https://www.youtube.com/watch?v=syx1tWSZbL8&list=PL3VM-unCzF8hy47mt9-chowaHNjfkuEVz&index=18
-				[] frontend: send json{id from url{}, name{}, comment{}, tasks {}}
-				[] backend: update name, comment, delete tasks, create tasks from json
+				# [x] name, comment
+				[] tasks
 			[] delete
-	
 	[] nav
 		[] highlight active page
-		[x] fix absolute(margin or stmh like this)
-	[] routines page
-		[]
-		[]
-		[]
-	[] notes page
-		[]
-		[]
-		[]						 
-	[] 2fa
-    [] get review from people on project
-	[] show it to hoomies
+		[x] fix absolute(margin or stmh like this)	
+	[] timer page
 
 [before 01.04] laravel api + docker + mysql + vue spa + tailwind(mb collab?)
 	[] same project
