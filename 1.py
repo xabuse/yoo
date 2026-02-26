@@ -2,6 +2,7 @@ only eng
 fuck ai
 make the code work -> optimize
 create cool stuff. You write the code for it(and for money from it)
+the ideal is the enemy of the good
 # ///
 # ///
 # ///
