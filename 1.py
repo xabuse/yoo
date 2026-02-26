@@ -1,7 +1,9 @@
 only eng
+fuck ai
 make the code work -> optimize
-create cool stuff. You write the code for it(and for money from it)
-i am not coder. i am cool stuff creater. if ai can help me create cool stuff more fast - why not? it's like abuse if i can contain it
+create cool stuff. you write the code for it(and for money from it)
+the ideal is the enemy of the good
+fuck meta, fuck idols
 # ///
 # ///
 # ///
