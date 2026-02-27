@@ -154,6 +154,7 @@ fuck meta, fuck idols
 
 [before 01.04] laravel api + docker + mysql + vue spa = a project to help coders
 	[] black/white? think about design
+	[] i can delete tailwind from starter kit auth and rewrite it later with my styling
 	[] decomposition(this file)
 	[] timer
 	[?] routines(habitica), mb activity tracker(discord)
