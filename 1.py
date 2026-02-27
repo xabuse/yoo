@@ -110,54 +110,53 @@ fuck meta, fuck idols
 # code helper(decomposition, projects, timer)
 # life helper(routine, notes)								 
 # projects(this file + done or not), routine(habitica, calendar, how many days until next), notes(google keep)
-[before 01.03] laravel project(php, blade, bootstrap, mysql, js)
-    # [x] laracast 30 days course
-	# [x] create project with starterpack
-	# [x] implement authorization
-	# [x] connect bootstrap
-	[] project page
-		# [x] draw, drop a link - https://excalidraw.com/#json=65H576GEXSSBEZkfGkrR8,tllM6RzpJrHxA2ofmi3zaA
-		# [x] projects: create model, migration(id, user_id, is_done, name, comments), controller, route 
-		# [x] create small register and login
-		# 	[x] add frontend validation from course
-		# 	[x] log in failure messages
-		# [x] auth check
-		# [x] index page without tasks
-		# [x] create page(name, some comments)
-		# 	[x] save to db
-		# 	[x] validation
-		# [x] index page full
-		# 	[x] hover effect
-		# 	[x] test long name, comment(copy from habitica) 
-			# [x] clickable to projects/{id}/edit
-		[] edit/show page
-			# [x] get (name, comment) from db by id in url
-			# 	[x] implement logic: the user has access only to his own projects(gate?)
-			# [x] fix: i can see projects which i did not create
-			# [x] create tasks(migration, model, controller, policy)(project_id, is_done, task_text, tabs)
-				# [x] implement logic: if a project with tasks is deleted - delete the tasks https://www.youtube.com/watch?v=x1UCiE0hZiw&list=PL3VM-unCzF8hy47mt9-chowaHNjfkuEVz&index=12
-		# [x] create github
-			# [x] task block
-				# [x] implement create button
-				# [x] fix the low position of the button
-			[] update(save button) https://www.youtube.com/watch?v=syx1tWSZbL8&list=PL3VM-unCzF8hy47mt9-chowaHNjfkuEVz&index=18
-				# [x] name, comment
-				[] tasks
-			[] delete
-	# [x] nav page
-	# 	[x] highlight active page
-		# [x] fix absolute(margin or stmh like this)	
-	[] timer page
-		[] time input(h, m, s)
-		[] timer 
+# [before 01.03] laravel project(php, blade, bootstrap, mysql, js)
+#     # [x] laracast 30 days course
+# 	# [x] create project with starterpack
+# 	# [x] implement authorization
+# 	# [x] connect bootstrap
+# 	[] project page
+# 		# [x] draw, drop a link - https://excalidraw.com/#json=65H576GEXSSBEZkfGkrR8,tllM6RzpJrHxA2ofmi3zaA
+# 		# [x] projects: create model, migration(id, user_id, is_done, name, comments), controller, route 
+# 		# [x] create small register and login
+# 		# 	[x] add frontend validation from course
+# 		# 	[x] log in failure messages
+# 		# [x] auth check
+# 		# [x] index page without tasks
+# 		# [x] create page(name, some comments)
+# 		# 	[x] save to db
+# 		# 	[x] validation
+# 		# [x] index page full
+# 		# 	[x] hover effect
+# 		# 	[x] test long name, comment(copy from habitica) 
+# 			# [x] clickable to projects/{id}/edit
+# 		[] edit/show page
+# 			# [x] get (name, comment) from db by id in url
+# 			# 	[x] implement logic: the user has access only to his own projects(gate?)
+# 			# [x] fix: i can see projects which i did not create
+# 			# [x] create tasks(migration, model, controller, policy)(project_id, is_done, task_text, tabs)
+# 				# [x] implement logic: if a project with tasks is deleted - delete the tasks https://www.youtube.com/watch?v=x1UCiE0hZiw&list=PL3VM-unCzF8hy47mt9-chowaHNjfkuEVz&index=12
+# 		# [x] create github
+# 			# [x] task block
+# 				# [x] implement create button
+# 				# [x] fix the low position of the button
+# 			[] update(save button) https://www.youtube.com/watch?v=syx1tWSZbL8&list=PL3VM-unCzF8hy47mt9-chowaHNjfkuEVz&index=18
+# 				# [x] name, comment
+# 				[] tasks
+# 			[] delete
+# 	# [x] nav page
+# 	# 	[x] highlight active page
+# 		# [x] fix absolute(margin or stmh like this)	
+# 	[] timer page
+# 		[] time input(h, m, s)
+# 		[] timer 
+# FUCK BOOTSTRAP, FUCK BLADE
 
-[before 01.04] laravel api + docker + mysql + vue spa
+[before 01.04] laravel api + docker + mysql + vue spa = a project to help coders
 	[] decomposition(this file)
 	[] timer
-	[?] routines(habitica)
+	[?] routines(habitica), mb activity tracker(discord)
 	[?] notes?
-
-[fun] messager?
 
 
 
