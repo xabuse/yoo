@@ -187,7 +187,7 @@ fuck meta, fuck idols
 
 
 [01.04] ask for resume advice, start learning the theory for interviews
-[] anime site
+[] anime site collab
 [before 01.06] job(mysql, php, laravel, oop, (html css js bootstrap tailwind, vue), rest api, docker, github)
-[] tg bot?
+[?] tg bot for $$$?
 				
