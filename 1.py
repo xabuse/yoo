@@ -157,6 +157,7 @@ fuck meta, fuck idols
 	[] timer
 	[?] routines(habitica), mb activity tracker(discord)
 	[?] notes?
+	[] get feedback(users, coders(laravel chat?))
 
 
 
