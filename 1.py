@@ -153,6 +153,7 @@ fuck meta, fuck idols
 # FUCK BOOTSTRAP, FUCK BLADE
 
 [before 01.04] laravel api + docker + mysql + vue spa = a project to help coders
+	[] black/white? think about design
 	[] decomposition(this file)
 	[] timer
 	[?] routines(habitica), mb activity tracker(discord)
