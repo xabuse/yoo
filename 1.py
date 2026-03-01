@@ -159,7 +159,7 @@ fuck meta, fuck idols
 		[] auth page
 			[] generate vue starter kit
 			[] i can delete tailwind from starter kit auth and rewrite it later with my styling
-		[] decomposition(this file)(literally copy, but 1 space at the beginning = tab(i can't write in it) and clikable checkbox)
+		[] decomposition(this file)(literally copy, but 1 space/1 tab at the beginning = tab(i can't write in it) and clikable checkbox)
 		[] timer
 		[?] routines(habitica), why i do this?
 		[?] notes?
