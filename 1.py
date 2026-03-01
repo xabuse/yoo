@@ -153,11 +153,11 @@ fuck meta, fuck idols
 # FUCK BOOTSTRAP, FUCK BLADE
 
 [before 01.04] laravel api + docker + mysql + vue spa = a project to help coders
-	[] black/white? think about design
+	[] black/white? like vue docs think about design
 	[] i can delete tailwind from starter kit auth and rewrite it later with my styling
 	[] decomposition(this file)(literally copy, but 1 space at the beginning = tab and clikable checkbox)
 	[] timer
-	[?] routines(habitica), mb activity tracker(discord)
+	[?] routines(habitica), why i do this?
 	[?] notes?
 	[] get feedback(users, coders(laravel chat?))
 
