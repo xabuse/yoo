@@ -153,6 +153,7 @@ fuck meta, fuck idols
 # FUCK BOOTSTRAP, FUCK BLADE
 
 [before 01.04] laravel api + docker + mysql + vue spa = a project to help coders
+	[] vue tutorial
 	[] black/white? like vue docs think about design
 	[] i can delete tailwind from starter kit auth and rewrite it later with my styling
 	[] decomposition(this file)(literally copy, but 1 space at the beginning = tab(i can't write in it) and clikable checkbox)
