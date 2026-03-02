@@ -153,7 +153,7 @@ fuck meta, fuck idols
 # FUCK BOOTSTRAP, FUCK BLADE
 
 [before 01.04] laravel api + docker + mysql + vue spa = a project to help coders
-	[] vue tutorial
+	[before 07.03] vue tutorials
 	[] black/white? like vue docs. think about design
 	[] pages
 		[] auth page
