@@ -158,16 +158,18 @@ fuck meta, fuck idols
 		[] TUESDAY: Reusability, Built-in Components, Scaling Up
 		[] FRIDAY: Best Practices, Extra Topics, exapmles
 	[] setup https://www.youtube.com/watch?v=qVi3vv9K8Fk
-		[] laravel
-		[] vue
-	[] black/white? like vue docs. think about design
+		[] laravel(sail up -d)
+		[] vue(npm run dev)
+	[] mini architecture design
+		[] frontend design = this file + timer link
+		[] db scheme link = 
 	[] pages
 		[] auth page
 			[] ?generate with starter kit
-		[] decomposition(this file)(literally copy, but 1 space/1 tab at the beginning = tab(i can't write in it) and clikable checkbox)
+		[] decomposition(this file)(literally copy this file, but 1 space/1 tab at the beginning = tab(i can't write in it) and clikable checkbox)
 		[] timer(can set 90-10-90)
-		[?] routines(habitica), why i do this?
-		[?] notes?
+		[skip now] routines(habitica), why i do this?
+		[skip now] notes?
 	[] get feedback(users, coders(laravel chat?))
 
 
