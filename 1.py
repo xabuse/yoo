@@ -161,15 +161,16 @@ fuck meta, fuck idols
 		[] TUESDAY: Reusability, Built-in Components, Scaling Up
 		[] FRIDAY: Best Practices, Extra Topics, exapmles
 	# functional
-		# decomposition feature - this file
+		# decomposition feature - this file (EACH PROJECT HAS ITS OWN)
 		# timer for deep work - any duration work(90) + any duration rest(10) + any duration work(90)
 	[] mini architecture design
 		# [x] questions
 			# [x] decomposition page
 				# [x] implement adding between tasks - in frontend add dynamic button 
-				# [x] how to update then i click save button? - send js with all tasks, (delete all then put all with db transaction) {position, tabs_num, text}
+				# [x] how to update then i click save button? - send js with all tasks, (delete all then put all with db transaction) {project_id, position, tabs_num, text}
+				# [x] project[id, user_id]
 			# [x] timer
-				# [x] how to store in db? - [id, chunks(90,10,90), start(current), end(current + 90+10+90)] and calculate in frontend
+				# [x] how to store in db? - [id, user_id, chunks(90,10,90), start(current), end(current + 90+10+90)] and calculate in frontend
 		[] db scheme link =
 		[] frontend design link(mobile, pc) = 
 	##########
