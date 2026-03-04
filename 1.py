@@ -153,23 +153,38 @@ fuck meta, fuck idols
 # FUCK BOOTSTRAP, FUCK BLADE
 
 [before 01.04] laravel api + docker + mysql + vue spa = a project to help coders
+	##########
+	# planning
+	##########
 	[before 07.03] vue tutorials
-		[x] WEDNESDAY: Essentials, Components In-Depth
+		# [x] WEDNESDAY: Essentials, Components In-Depth
 		[] TUESDAY: Reusability, Built-in Components, Scaling Up
 		[] FRIDAY: Best Practices, Extra Topics, exapmles
+	# functional
+		# decomposition feature - this file
+		# timer for deep work - any duration work(90) + any duration rest(10) + any duration work(90)
+	[] mini architecture design
+		# [x] questions
+			# [x] decomposition page
+				# [x] implement adding between tasks - in frontend add dynamic button 
+				# [x] how to update then i click save button? - send js with all tasks, (delete all then put all with db transaction) {position, tabs_num, text}
+			# [x] timer
+				# [x] how to store in db? - [id, chunks(90,10,90), start(current), end(current + 90+10+90)] and calculate in frontend
+		[] db scheme link =
+		[] frontend design link(mobile, pc) = 
+	##########
+	# coding
+	##########
 	[] setup https://www.youtube.com/watch?v=qVi3vv9K8Fk
 		[] laravel(sail up -d)
 		[] vue(npm run dev)
-	[] mini architecture design
-		[] frontend design = this file + timer link
-		[] db scheme link = 
 	[] pages
 		[] auth page
 			[] ?generate with starter kit
-		[] decomposition(this file)(literally copy this file, but 1 space/1 tab at the beginning = tab(i can't write in it) and clikable checkbox)
-		[] timer(can set 90-10-90)
-		[skip now] routines(habitica), why i do this?
-		[skip now] notes?
+		[] decomposition page(this file)(literally copy this file, but 1 space/1 tab at the beginning = tab(i can't write in it) and clikable checkbox)
+		[] timer page(can set 90-10-90)/90-15-60
+		# [skip now] routines(habitica), why i do this?
+		# [skip now] notes?
 	[] get feedback(users, coders(laravel chat?))
 
 
