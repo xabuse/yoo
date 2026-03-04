@@ -4,6 +4,7 @@ make the code work -> optimize
 create cool stuff. you write the code for it(and for money from it)
 the ideal is the enemy of the good
 fuck meta, fuck idols
+https://site.yummyani.me/catalog/item/skalolazki - lol, this aproach is good for coding
 # ///
 # ///
 # ///
