@@ -160,6 +160,7 @@ fuck meta, fuck idols
 		# [x] WEDNESDAY: Essentials, Components In-Depth
 		[] TUESDAY: Reusability, Built-in Components, Scaling Up
 		[] FRIDAY: Best Practices, Extra Topics, exapmles
+		[] https://www.youtube.com/watch?v=qVi3vv9K8Fk
 	# functional
 		# decomposition feature - this file (EACH PROJECT HAS ITS OWN)
 		# timer for deep work - any duration work(90) + any duration rest(10) + any duration work(90)
