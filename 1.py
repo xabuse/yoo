@@ -153,6 +153,21 @@ https://site.yummyani.me/catalog/item/skalolazki - lol, this aproach is good for
 # 		[] timer 
 # FUCK BOOTSTRAP, FUCK BLADE
 
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+	
 [before 01.04] laravel api + docker + mysql + vue spa = a project to help coders
 	##########
 	# planning
