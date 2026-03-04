@@ -196,4 +196,5 @@ fuck meta, fuck idols
 [] anime site collab
 [before 01.06] job(mysql, php, laravel, oop, (html css js bootstrap tailwind, vue), rest api, docker, github)
 [?] tg bot for $$$?
+[] ts
 				
