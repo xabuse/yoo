@@ -154,11 +154,16 @@ fuck meta, fuck idols
 
 [before 01.04] laravel api + docker + mysql + vue spa = a project to help coders
 	[before 07.03] vue tutorials
+		[x] WEDNESDAY: Essentials, Components In-Depth
+		[] TUESDAY: Reusability, Built-in Components, Scaling Up
+		[] FRIDAY: Best Practices, Extra Topics, exapmles
+	[] setup https://www.youtube.com/watch?v=qVi3vv9K8Fk
+		[] laravel
+		[] vue
 	[] black/white? like vue docs. think about design
 	[] pages
 		[] auth page
-			[] generate vue starter kit
-			[] i can delete tailwind from starter kit auth and rewrite it later with my styling
+			[] ?generate with starter kit
 		[] decomposition(this file)(literally copy, but 1 space/1 tab at the beginning = tab(i can't write in it) and clikable checkbox)
 		[] timer(can set 90-10-90)
 		[?] routines(habitica), why i do this?
