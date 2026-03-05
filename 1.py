@@ -174,7 +174,7 @@ https://site.yummyani.me/catalog/item/skalolazki - lol, this aproach is good for
 	##########
 	[before 07.03] vue tutorials
 		# [x] WEDNESDAY: Essentials, Components In-Depth
-		[] TUESDAY: Reusability, Built-in Components, Scaling Up
+		# [x] TUESDAY: Reusability, Built-in Components, Scaling Up
 		[] FRIDAY: Best Practices, Extra Topics, exapmles
 		[] https://www.youtube.com/watch?v=qVi3vv9K8Fk
 	# functional
