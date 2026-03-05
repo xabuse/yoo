@@ -236,6 +236,6 @@ https://site.yummyani.me/catalog/item/skalolazki - lol, this aproach is good for
 [01.04] ask for resume advice, start learning the theory for interviews
 [] anime site collab
 [before 01.06] job(mysql, php, laravel, oop, (html css js bootstrap tailwind, vue), rest api, docker, github)
-[?] tg bot for $$$?
+[] cbt + exposition + health stuff site
 [] ts
 				
