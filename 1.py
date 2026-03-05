@@ -178,7 +178,7 @@ https://site.yummyani.me/catalog/item/skalolazki - lol, this aproach is good for
 		[] FRIDAY: Best Practices, Extra Topics, exapmles
 		[] https://www.youtube.com/watch?v=qVi3vv9K8Fk
 	# functional
-		# decomposition feature - this file (EACH PROJECT HAS ITS OWN)
+		# decomposition feature - this file (EACH PROJECT HAS ITS OWN) (I CAN COPY IT FROM NOTION)
 		# timer for deep work - any duration work(90) + any duration rest(10) + any duration work(90)
 	[] mini architecture design
 		# [x] questions
