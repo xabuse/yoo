@@ -194,6 +194,7 @@ https://site.yummyani.me/catalog/item/skalolazki - lol, this aproach is good for
 	# coding
 	##########
 	[] setup https://www.youtube.com/watch?v=qVi3vv9K8Fk
+		[] should i use kitstart? will kitstart give me token or it give me session auth which i will be forced to convert into a token?
 		[] laravel(sail up -d)
 		[] vue(npm run dev)
 	[] pages
