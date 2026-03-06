@@ -206,7 +206,8 @@ https://site.yummyani.me/catalog/item/skalolazki - lol, this aproach is good for
 		# [skip now] notes?
 	[] i need token. always token for api -> spa/mobile
 	[] deploy on 3.20$ vps
-	[] get feedback(users, coders(laravel chat?))
+	[] add gif, setup guide on github, test it
+	[] get feedback(users, coders(laravel chat?)) with link?
 
 
 
