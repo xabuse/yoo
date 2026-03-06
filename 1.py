@@ -203,6 +203,7 @@ https://site.yummyani.me/catalog/item/skalolazki - lol, this aproach is good for
 		[] timer page(can set 90-10-90)/90-15-60
 		# [skip now] routines(habitica), why i do this?
 		# [skip now] notes?
+	[] i need token. always token for api -> spa/mobile
 	[] deploy on 3.20$ vps
 	[] get feedback(users, coders(laravel chat?))
 
