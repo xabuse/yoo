@@ -10,4 +10,4 @@
   [] get feedback(tg chat)
 
 [] anime site
-[] cbt app 
+[] cbt app with statistics(diet, consistent sleep, exercises, meditations)
