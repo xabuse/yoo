@@ -8,3 +8,6 @@
   [] api docs(scramble/?)
   [] collab with dima
   [] get feedback(tg chat)
+
+[] anime site
+[] cbt app 
