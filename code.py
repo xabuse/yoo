@@ -11,4 +11,6 @@
 
 [] anime site
 
+[] сайтик или приложение(или 2 в одном) как блокнотик короч. ну вот в жизни. чисто записная книжка, как в golden boy со страничками и листанием
+
 [] cbt app with statistics(diet, consistent sleep, exercises, meditations)
