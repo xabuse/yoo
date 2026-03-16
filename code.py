@@ -1,4 +1,4 @@
-[] code helper(vue spa + laravel api)
+[] code helper(vue spa + laravel api(token auth))
   # [x] setup(cd backend && ./vendor/bin/sail up -d && cd ../frontend && npm run dev)
   # [x] git repo
   # [x] vue router course https://vueschool.io/courses/vue-router-4-for-everyone - skipped
