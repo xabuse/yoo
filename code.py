@@ -1,8 +1,10 @@
 [] code helper(vue spa + laravel api)
   # [x] setup(cd backend && ./vendor/bin/sail up -d && cd ../frontend && npm run dev)
   # [x] git repo
-  [] vue router course https://vueschool.io/courses/vue-router-4-for-everyone
+  # [x] vue router course https://vueschool.io/courses/vue-router-4-for-everyone - skipped
   [] token auth (Sanctum)
+    # [x] crete frontend register and login page
+    [] create login and register api
   [] decomposition page(like in notion or this file: (projects, tabs, checkboxs, if done = gray)
   [] timer page(default timer from ubuntu, track in the end)
   [] readme installation guide
