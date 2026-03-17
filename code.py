@@ -9,10 +9,14 @@
       # [x] login: get email, password + return token
     [] connect frontend to api
       [] frontend validation
+        [] don't allow empty from frontend(red input and red text under input)
+        [] show errors from backend(red text under input)
       # [x] save token in localstorage
       # [x] implement redirect
       # [x] frontend redirect if user don't have token in localstorage
+      [] redirect from register and login if user authorized
       [] if api return 401 - delete token and redirect to login
+      [] bug: if any error in console: has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource
   [] decomposition page(like in notion or this file: (projects, tabs, checkboxs, if done = gray)
   [] timer page(default timer from ubuntu, track in the end)
   [] readme installation guide
