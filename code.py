@@ -4,7 +4,13 @@
   # [x] vue router course https://vueschool.io/courses/vue-router-4-for-everyone - skipped
   [] token auth (Sanctum)
     # [x] crete frontend register and login page
-    [] create login and register api
+    # [x] create login and register api
+      # [x] register api: get name, email, password + return token + create user in db
+      # [x] login: get email, password + return token
+    [] connect frontend to api
+      [] save token in localstorage
+      [] frontend redirect if user don't have token in localstorage
+      [] if api return 401 - delete token and redirect to login
   [] decomposition page(like in notion or this file: (projects, tabs, checkboxs, if done = gray)
   [] timer page(default timer from ubuntu, track in the end)
   [] readme installation guide
