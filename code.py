@@ -17,6 +17,7 @@
       [] redirect from register and login if user authorized
       [] if api return 401 - delete token and redirect to login
       [] bug: if any error in console: has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource
+      [] bug: why laravel api send me html instead of json?
   [] decomposition page(like in notion or this file: (projects, tabs, checkboxs, if done = gray)
   [] timer page(default timer from ubuntu, track in the end)
   [] readme installation guide
