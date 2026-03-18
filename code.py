@@ -26,10 +26,10 @@
         [] add frontend validation(not empty)
       [] show list of projects
       [] delete project button
-    [] decomposition page(copy from notion, checkbox [x](old project) + on hover - gray, may be some animation(old project with bootstrap))
+    [] tasks(copy from notion, checkbox [x](old project) + on hover - gray, may be some animation(old project with bootstrap))
       [] model(tasks?(id, project_id, is_complete, tabs, text), controller?
       [] save button(delete all previous and save all new)
-  [] footer(projects, timer)
+  [] footer(projects, timer) component
       [] highlight current page
   [] timer page(default timer(pause, reset, start, set time))
   [] if api return 401 - delete token
