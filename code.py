@@ -18,11 +18,17 @@
       # [x] frontend redirect if user don't have token in localstorage
       # [x] redirect from register and login if user authorized
   [] decomposition page(like in notion or this file: (projects, tabs, checkboxs, if done = gray)
-  [] timer page(default timer from ubuntu, track in the end)
-  [] if api return 401 - delete token and redirect to login
+    [] header(projects, timer)
+    [] projects(steal from old project)
+      [] create project button
+      [] create project frontend page(only header)
+      [] delete project button
+    [] decomposition page(copy from notion, checkbox [x](old project) + on hover - gray, may be some animation(old project with bootstrap))
+  [] timer page(default timer(pause, reset, start, set time))
+  [] if api return 401 - delete token
   [] readme installation guide
   [] api docs(scramble/?)
-  [] collab with dima
+  [] ?collab with dima
   [] get feedback(tg chat)
 
 [] anime site
