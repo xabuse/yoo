@@ -21,8 +21,10 @@
     [] projects(steal from old project)
       # [x] create project button
       [] create project page(only name input)
-        [] api(projects model(id, user_id, name), controller)
-        [] save button, back button, request to api
+        # [x] api(projects model(id, user_id, name), controller)
+        # [x] save button, back button, request to api
+        [] add frontend validation(not empty)
+      [] show list of projects
       [] delete project button
     [] decomposition page(copy from notion, checkbox [x](old project) + on hover - gray, may be some animation(old project with bootstrap))
       [] model(tasks?(id, project_id, is_complete, tabs, text), controller?
