@@ -18,12 +18,17 @@
       # [x] frontend redirect if user don't have token in localstorage
       # [x] redirect from register and login if user authorized
   [] decomposition page(like in notion or this file: (projects, tabs, checkboxs, if done = gray)
-    [] header(projects, timer)
+    [] footer(projects, timer)
+      [] highlight current page
     [] projects(steal from old project)
-      [] create project button
-      [] create project frontend page(only header)
+      # [x] create project button
+      [] create project page(only name input)
+        [] api(projects model(id, user_id, name), controller)
+        [] save button, back button, request to api
       [] delete project button
     [] decomposition page(copy from notion, checkbox [x](old project) + on hover - gray, may be some animation(old project with bootstrap))
+      [] model(tasks?(id, project_id, is_complete, tabs, text), controller?
+      [] save button(delete all previous and save all new)
   [] timer page(default timer(pause, reset, start, set time))
   [] if api return 401 - delete token
   [] readme installation guide
