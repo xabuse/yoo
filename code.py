@@ -35,10 +35,13 @@ fuck ai
           # [x] task(id, project_id, is_complete, tabs, content) -mcr
           [] textarea
             # [x] off borders, make background equal to body, off arrow
-            [] every enter = new checkbox [x](old project)
-            [] backspace on checkbox = delete checkbox
+            [] every enter = new checkbox [x] from old project, which i can't change, only click
+            [] up and down key = up and down text
+            [] backspace on checkbox = delete checkbox if tabs = 0 or tabs - 1
             [] checkbox on hover - gray + may be some animation(old project with bootstrap)
-          [] implement save button(delete all previous and save all new)
+            [] implement tabs(space on phone, tab or space on pc)
+            [] if checkbox checked - make text gray
+          [] implement save button(delete all previous and save all new tasks)
           [] implement delete button
   [] footer(projects, timer) component
       [] highlight current page
@@ -46,7 +49,7 @@ fuck ai
   [] if api return 401 - delete token
   [] readme installation guide
   [] api docs(scramble/?)
-  [] ?collab with dima
+  [] ?collab
   [] get feedback(tg chat)
 
 [] anime site
