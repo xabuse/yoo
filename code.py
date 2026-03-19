@@ -32,12 +32,14 @@ fuck ai
       [] project page
         # [x] delete project button
         [] tasks(copy from notion)
-          [] task(id, project_id, is_complete, tabs, content) -mcr
+          # [x] task(id, project_id, is_complete, tabs, content) -mcr
           [] textarea
+            # [x] off borders, make background equal to body, off arrow
             [] every enter = new checkbox [x](old project)
             [] backspace on checkbox = delete checkbox
             [] checkbox on hover - gray + may be some animation(old project with bootstrap)
           [] implement save button(delete all previous and save all new)
+          [] implement delete button
   [] footer(projects, timer) component
       [] highlight current page
   [] timer page(default timer(pause, reset, start, set time))
