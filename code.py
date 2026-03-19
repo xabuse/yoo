@@ -21,16 +21,23 @@ fuck ai
       # [x] redirect from register and login if user authorized
   [] decomposition page(like in notion or this file: (projects, tabs, checkboxs, if done = gray)
     [] projects(steal from old project)
-      # [x] create project button
+      # [x] create add project button
       # [x] create project page(only name input)
         # [x] api(projects model(id, user_id, name), controller)
         # [x] save button, back button, request to api
         # [x] add frontend validation(not empty)
-      [] show list of projects
-      [] delete project button
-    [] tasks(copy from notion, checkbox [x](old project) + on hover - gray, may be some animation(old project with bootstrap))
-      [] model(tasks?(id, project_id, is_complete, tabs, text), controller?
-      [] save button(delete all previous and save all new)
+      # [x] show list of projects
+        # [x] indent from footer
+        # [x] add link(id)
+      [] project page
+        # [x] delete project button
+        [] tasks(copy from notion)
+          [] task(id, project_id, is_complete, tabs, content) -mcr
+          [] textarea
+            [] every enter = new checkbox [x](old project)
+            [] backspace on checkbox = delete checkbox
+            [] checkbox on hover - gray + may be some animation(old project with bootstrap)
+          [] implement save button(delete all previous and save all new)
   [] footer(projects, timer) component
       [] highlight current page
   [] timer page(default timer(pause, reset, start, set time))
