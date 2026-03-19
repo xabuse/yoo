@@ -22,10 +22,10 @@ fuck ai
   [] decomposition page(like in notion or this file: (projects, tabs, checkboxs, if done = gray)
     [] projects(steal from old project)
       # [x] create project button
-      [] create project page(only name input)
+      # [x] create project page(only name input)
         # [x] api(projects model(id, user_id, name), controller)
         # [x] save button, back button, request to api
-        [] add frontend validation(not empty)
+        # [x] add frontend validation(not empty)
       [] show list of projects
       [] delete project button
     [] tasks(copy from notion, checkbox [x](old project) + on hover - gray, may be some animation(old project with bootstrap))
