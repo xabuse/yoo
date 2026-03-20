@@ -41,8 +41,8 @@ fuck ai
             # [x] then i click ↑ ↓ change focus to index-1 or index+1
             [] implement tabs(space on phone, tab or space on pc in start)
             [] backspace on checkbox = delete checkbox if tabs = 0 or tabs - 1
-            [] checkbox on hover - gray + may be some animation(old project with bootstrap)
             [] if checkbox checked - make text gray
+            [] checkbox on hover - gray + may be some animation(old project with bootstrap)
           [] implement save button(delete all previous and save all new tasks)
           [] implement delete button
   [] footer(projects, timer) component
