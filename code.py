@@ -37,11 +37,11 @@ fuck ai
             # [x] off borders, make background equal to body, off arrow
             # [x] checkbox from old project
             # [x] on click enter - append new task to data() with id+1 and text '' + change focus to new input
-            [] now i want to add new task after the current task, not at the end
-            [] up and down key = up and down text
+            # [x] now i want to add new task and set focus after the current task, not at the end
+            # [x] then i click ↑ ↓ change focus to index-1 or index+1
+            [] implement tabs(space on phone, tab or space on pc in start)
             [] backspace on checkbox = delete checkbox if tabs = 0 or tabs - 1
             [] checkbox on hover - gray + may be some animation(old project with bootstrap)
-            [] implement tabs(space on phone, tab or space on pc)
             [] if checkbox checked - make text gray
           [] implement save button(delete all previous and save all new tasks)
           [] implement delete button
