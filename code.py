@@ -35,7 +35,9 @@ fuck ai
           # [x] task(id, project_id, is_complete, tabs, content) -mcr
           [] textarea
             # [x] off borders, make background equal to body, off arrow
-            [] every enter = new checkbox [x] from old project, which i can't change, only click
+            # [x] checkbox from old project
+            # [x] on click enter - append new task to data() with id+1 and text '' + change focus to new input
+            [] now i want to add new task after the current task, not at the end
             [] up and down key = up and down text
             [] backspace on checkbox = delete checkbox if tabs = 0 or tabs - 1
             [] checkbox on hover - gray + may be some animation(old project with bootstrap)
