@@ -41,12 +41,14 @@ fuck ai
             # [x] then i click ↑ ↓ change focus to index-1 or index+1
             # [x] implement tabs(space on phone, tab or space on pc in input start)
               # [x] if cursor on position == 0 and i press tab or space: +1 to tab in array(1 tab = +35px margin left)
-            [] backspace on checkbox = delete checkbox if tabs = 0 or tabs - 1
-            [] if checkbox checked - make text gray
-            [] checkbox on hover - gray + may be some animation(old project with bootstrap)
-            [] bug: arrows can only navigate from elem to elem, currently they cannot navigate through text
+            # [x] backspace on checkbox = delete checkbox if tabs = 0 or tabs - 1
+            # [x] if checkbox checked - make text and checkbox gray
+            // # [] checkbox on hover - gray + may be some animation(old project with bootstrap)
+            # [x] add hints(tab, space, delete)
+            // # [] bug: arrows can only navigate from elem to elem, currently they cannot navigate through text
           [] implement save button(delete all previous and save all new tasks)
           [] implement delete button
+  [] hover buttons style
   [] footer(projects, timer) component
       [] highlight current page
   [] timer page(default timer(pause, reset, start, set time))
