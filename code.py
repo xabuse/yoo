@@ -48,11 +48,12 @@ fuck ai
             // # [] bug: arrows can only navigate from elem to elem, currently they cannot navigate through text
           [] implement save button(delete all previous and save all new tasks)
             # [x] send array on frontend
-            [] get array on backend
+            # [x] get array on backend
             [] delete all tasks from project
             [] save all new tasks to project 
           [] implement delete button
           [] bug: after tas with 3 tabs i can't implement any tabs, although it was expected that I would be able to create a new task with 2-4 tabs
+  [] bug: after delete user i still can navigate from app with old token 
   [] hover buttons style
   [] footer(projects, timer) component
       [] highlight current page
