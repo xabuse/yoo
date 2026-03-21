@@ -33,7 +33,7 @@ fuck ai
         # [x] delete project button
         [] tasks(copy from notion)
           # [x] task(id, project_id, is_complete, tabs, content) -mcr
-          [] textarea
+          # [x] textarea
             # [x] off borders, make background equal to body, off arrow
             # [x] checkbox from old project
             # [x] on click enter - append new task to data() with id+1 and text '' + change focus to new input
@@ -52,6 +52,8 @@ fuck ai
             # [x] delete all tasks from project
             # [x] save all new tasks to project 
           [] implemeте receiving tasks from the api after going to the tasks page
+            [] how i should return tasks only for this projects? /api/projects/5(show) and then tasks()->index() for this project?
+            [] fix public function update(Request $request, Project $project)
           [] implement delete button
           [] bug: after tas with 3 tabs i can't implement any tabs, although it was expected that I would be able to create a new task with 2-4 tabs
   [] bug: after delete user i still can navigate from app with old token 
