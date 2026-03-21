@@ -65,6 +65,7 @@ fuck ai
   [] if api return 401 - delete token
   [] readme installation guide
   [] api docs(scramble/?)
+  [] create release branch
   [] ?collab
   [] get feedback(tg chat)
 
