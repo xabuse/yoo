@@ -39,10 +39,12 @@ fuck ai
             # [x] on click enter - append new task to data() with id+1 and text '' + change focus to new input
             # [x] now i want to add new task and set focus after the current task, not at the end
             # [x] then i click ↑ ↓ change focus to index-1 or index+1
-            [] implement tabs(space on phone, tab or space on pc in start)
+            # [x] implement tabs(space on phone, tab or space on pc in input start)
+              # [x] if cursor on position == 0 and i press tab or space: +1 to tab in array(1 tab = +35px margin left)
             [] backspace on checkbox = delete checkbox if tabs = 0 or tabs - 1
             [] if checkbox checked - make text gray
             [] checkbox on hover - gray + may be some animation(old project with bootstrap)
+            [] bug: arrows can only navigate from elem to elem, currently they cannot navigate through text
           [] implement save button(delete all previous and save all new tasks)
           [] implement delete button
   [] footer(projects, timer) component
