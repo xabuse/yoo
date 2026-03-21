@@ -46,11 +46,12 @@ fuck ai
             // # [] checkbox on hover - gray + may be some animation(old project with bootstrap)
             # [x] add hints(tab, space, delete)
             // # [] bug: arrows can only navigate from elem to elem, currently they cannot navigate through text
-          [] implement save button(delete all previous and save all new tasks)
+          # [x] implement save button(delete all previous and save all new tasks)
             # [x] send array on frontend
             # [x] get array on backend
-            [] delete all tasks from project
-            [] save all new tasks to project 
+            # [x] delete all tasks from project
+            # [x] save all new tasks to project 
+          [] implemeте receiving tasks from the api after going to the tasks page
           [] implement delete button
           [] bug: after tas with 3 tabs i can't implement any tabs, although it was expected that I would be able to create a new task with 2-4 tabs
   [] bug: after delete user i still can navigate from app with old token 
