@@ -1,4 +1,5 @@
 fuck ai
+duckduck, docs >>>
 
 [] code helper(vue spa + laravel api(token auth))
   # [x] setup(cd backend && ./vendor/bin/sail up -d && cd ../frontend && npm run dev)
