@@ -69,6 +69,7 @@ duckduck, docs >>>
   [] footer(projects, timer) component
       [] highlight current page
   [] timer page(default timer(pause, reset, start, set time))
+  [] white download indicator on top
   [] if api return 401 - delete token
   [] readme installation guide
   [] api docs(scramble/?)
