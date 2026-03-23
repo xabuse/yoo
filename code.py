@@ -52,10 +52,9 @@ duckduck, docs >>>
             # [x] get array on backend
             # [x] delete all tasks from project
             # [x] save all new tasks to project 
-          [] implemeте receiving tasks from the api after going to the tasks page
-            [] how i should return tasks only for this projects? /api/projects/5(show) and then tasks()->index() for this project?
-            [] fix public function update(Request $request, Project $project)
-            [] frontend: if project don't have tasks: create first "yo"
+          # [x] implemeте receiving tasks from the api after going to the tasks page
+            # [x] return tasks only for this projects?
+            # [x] if return empty array - create {checkbox: false, text: '', tabs: 0}
           [] implement delete button
           [] bug: after tas with 3 tabs i can't implement any tabs, although it was expected that I would be able to create a new task with 2-4 tabs
   [] bug: after delete user i still can navigate from app with old token 
