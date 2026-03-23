@@ -55,7 +55,12 @@ duckduck, docs >>>
           # [x] implemeте receiving tasks from the api after going to the tasks page
             # [x] return tasks only for this projects?
             # [x] if return empty array - create {checkbox: false, text: '', tabs: 0}
-          [] implement delete button
+          # [x] implement delete button
+            # [x] api for delete
+            # [x] frontend implementation
+                # [x] request
+                # [x] confirmation popup
+          [] popup if i quit and don't save edited tasks
           [] bug: after tas with 3 tabs i can't implement any tabs, although it was expected that I would be able to create a new task with 2-4 tabs
   [] bug: after delete user i still can navigate from app with old token 
   [] hover buttons style
