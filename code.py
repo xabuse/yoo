@@ -20,8 +20,8 @@ duckduck, docs >>>
       # [x] implement redirect
       # [x] frontend redirect if user don't have token in localstorage
       # [x] redirect from register and login if user authorized
-  [] decomposition page(like in notion or this file: (projects, tabs, checkboxs, if done = gray)
-    [] projects(steal from old project)
+  # [x] decomposition page(like in notion or this file: (projects, tabs, checkboxs, if done = gray)
+    # [x] projects(steal from old project)
       # [x] create add project button
       # [x] create project page(only name input)
         # [x] api(projects model(id, user_id, name), controller)
@@ -30,9 +30,9 @@ duckduck, docs >>>
       # [x] show list of projects
         # [x] indent from footer
         # [x] add link(id)
-      [] project page
+      # [x] project page
         # [x] delete project button
-        [] tasks(copy from notion)
+        # [x] tasks(copy from notion)
           # [x] task(id, project_id, is_complete, tabs, content) -mcr
           # [x] textarea
             # [x] off borders, make background equal to body, off arrow
