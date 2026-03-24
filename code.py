@@ -60,15 +60,16 @@ duckduck, docs >>>
             # [x] frontend implementation
                 # [x] request
                 # [x] confirmation popup
-          [] popup if i quit and don't save edited tasks
-            [] save tasks on created() in tasks and old tasks
-            [] changesCheck method: (if on back button oldTasks != tasks): popup(backToMain) with message: Changes are not saved, want to quit?
-          [] bug: after tas with 3 tabs i can't implement any tabs, although it was expected that I would be able to create a new task with 2-4 tabs
+          # [x] popup if i quit and don't save edited tasks
+            # [x] save tasks when created() on oldTasks
+            # [x] changesCheck method: (if on back button oldTasks != tasks): popup(backToMain) with message: Changes are not saved, want to quit?
+          # [x] bug: after task with 3 tabs i can't implement any tabs, although it was expected that I would be able to create a new task with 2-4 tabs
   [] bug: after delete user i still can navigate from app with old token 
   [] hover buttons style
   [] footer(projects, timer) component
       [] highlight current page
   [] timer page(default timer(pause, reset, start, set time))
+  [] refactor(computed, improve csrf, ...)
   [] white download indicator on top
   [] if api return 401 - delete token
   [] readme installation guide
