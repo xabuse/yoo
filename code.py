@@ -1,6 +1,7 @@
-{
-use ai when you spent 20+ minutes looking for a solution but did not find it
-DO NOT COPY CODE WHAT YOU DO NOT UNDERSTAND
+how i should use ai? {
+  always come up with architecture and solutions by yourself | it's senior stuff
+  use ai when you spent 20+ minutes looking for a solution but did not find it
+  DO NOT COPY CODE WHAT YOU DO NOT UNDERSTAND
 }
 
 mobile first
