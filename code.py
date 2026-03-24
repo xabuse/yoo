@@ -66,8 +66,8 @@ mobile first
           # [x] bug: after task with 3 tabs i can't implement any tabs, although it was expected that I would be able to create a new task with 2-4 tabs
 # [x] if api return 401 - delete token - in main.js
 # [x] bug: after delete user i still can navigate from app with old token - solved after if 401 await originalFetch(url, options) - delete; in main js
-  [] footer(projects, timer) component
-      [] highlight current page
+  # [x] footer(projects, timer) component
+      # [x] highlight current page
   [] timer page(default timer(pause, reset, start, set time))
   [] white download indicator on top
   [] pc version frontend optimization
