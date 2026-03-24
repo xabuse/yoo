@@ -73,7 +73,7 @@ features -> money | fuck good code, write code that works | optimize if u NEED t
   [] white download indicator on top
   [] pc version frontend optimization
     [] hover buttons style on pc
-  [] refactor(computed, improve csrf, token(now don't have foreign key to user_id. should?), ...)
+  [] refactor(computed, improve csrf, token(now don't have foreign key to user_id. should?), ?token in cookie ...)
   [] readme installation guide
   [] api docs(scramble/?)
   [] create release branch
