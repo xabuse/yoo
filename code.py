@@ -1,4 +1,4 @@
-fuck ai (duckduck, docs >>>)
+ai + docs + google + stackoverflow, but don't copy code what you not understand 
 mobile first
 
 [] code helper(vue spa + laravel api(token auth))
