@@ -1,4 +1,8 @@
-ai + docs + google + stackoverflow, but don't copy code what you not understand 
+{
+use ai when you spent 20+ minutes looking for a solution but did not find it
+DO NOT COPY CODE WHAT YOU DO NOT UNDERSTAND
+}
+
 mobile first
 features -> money | fuck good code, write code that works | optimize if u NEED this after features done
 
