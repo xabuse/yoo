@@ -6,6 +6,7 @@ how i should use ai? {
 
 mobile first
 features -> money | fuck good code, write code that works | optimize if u NEED this after features done
+this file = best way to write code(decomposition)
 
 [] code helper(vue spa + laravel api(token auth))
   # [x] setup(cd backend && ./vendor/bin/sail up -d && cd ../frontend && npm run dev)
