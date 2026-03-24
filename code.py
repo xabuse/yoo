@@ -1,6 +1,6 @@
 ai + docs + google + stackoverflow, but don't copy code what you not understand 
 mobile first
-features -> money | fuck good code, write code that works
+features -> money | fuck good code, write code that works | optimize if u NEED this after features done
 
 [] code helper(vue spa + laravel api(token auth))
   # [x] setup(cd backend && ./vendor/bin/sail up -d && cd ../frontend && npm run dev)
