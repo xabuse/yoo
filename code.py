@@ -72,7 +72,7 @@ mobile first
   [] white download indicator on top
   [] pc version frontend optimization
     [] hover buttons style on pc
-  [] refactor(computed, improve csrf, ...)
+  [] refactor(computed, improve csrf, token(now don't have foreign key to user_id. should?), ...)
   [] readme installation guide
   [] api docs(scramble/?)
   [] create release branch
