@@ -1,12 +1,6 @@
-how i should use ai? {
-  always come up with architecture and solutions by yourself | it's senior stuff
-  use ai when you spent 20+ minutes looking for a solution but did not find it
-  DO NOT COPY CODE WHAT YOU DO NOT UNDERSTAND
-}
-
 mobile first
-features -> money | fuck good code, write code that works | optimize if u NEED this after features done
-this file = best way to write code(decomposition)
+fuck good code, write code that works
+optimize if u NEED this after product done
 
 [] code helper(vue spa + laravel api(token auth))
   # [x] setup(cd backend && ./vendor/bin/sail up -d && cd ../frontend && npm run dev)
