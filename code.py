@@ -70,6 +70,13 @@ optimize if u NEED this after product done
   # [x] footer(projects, timer) component
       # [x] highlight current page
   [] timer page(default timer(pause, reset, start, set time))
+    # [x] footer
+    [] timer frontend https://excalidraw.com/#json=ifV5YyeHO12rr3IWUnLa3,1sD7j2IEcQ_iZ7M6wX9yiQ
+      [] input buttons
+      [] when i press button -> add digits(right to left) before add digits until you run out of slots
+      [] Erase button -> remove digits(left to right) and repace with 0
+    [] model Timer(id, user_id, start_time, duration)
+    [] 
   [] white download indicator on top
   [] pc version frontend optimization
     [] hover buttons style on pc
