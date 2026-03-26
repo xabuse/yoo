@@ -2,6 +2,8 @@ mobile first
 fuck good code, write code that works
 optimize if u NEED this after product done
 
+problem -> 20 min+ attempts to solve the problem -> ask ai about best practice -> keep trying to solve it yourself
+
 [] code helper(vue spa + laravel api(token auth))
   # [x] setup(cd backend && ./vendor/bin/sail up -d && cd ../frontend && npm run dev)
   # [x] git repo
@@ -81,7 +83,12 @@ optimize if u NEED this after product done
       # [x] get timers from api
       # [x] if timer >=1: displayTimer component, else: createTimer component
       [] displayTimer
+        [] duration from seconds to 01:30:00
+        [] if start_time != null: dynamic duration
         [] if timer already 00 -> remove start_time
+        [] play, pause button(pause_at(How much seconds left since Duration) + isPaused = 1)
+        [] delete button
+        [] reset button(remove start_time)
     [] click animation in create timer
     [] bug: fix 0 input
     [] bug: i can see startTimer before I get a response from the API
