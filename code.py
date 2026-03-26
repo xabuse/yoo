@@ -80,18 +80,23 @@ optimize if u NEED this after product done
           # [x] save to db(request, controller)
       # [x] get timers from api
       # [x] if timer >=1: displayTimer component, else: createTimer component
-      [] displayTimer frontend
+      [] displayTimer
         [] if timer already 00 -> remove start_time
+    [] click animation in create timer
     [] bug: fix 0 input
     [] bug: i can see startTimer before I get a response from the API
   [] white download indicator on top
   [] pc version frontend optimization
     [] hover buttons style on pc
-  [] refactor(computed, improve csrf, token(now don't have foreign key to user_id. should?), ?token in cookie ...)
-    [] cors config
+  [] refactoring + optimization
+    [] token
+      [] should i create foreign key for tken and user?
+      [] store token in cookie(spa sanctum)
+    [] cors config(csrf protection)
   [] readme installation guide
   [] api docs(scramble/?)
   [] create release branch
+  [] drop on server
   [] ?collab
   [] get feedback(tg chat)
 
