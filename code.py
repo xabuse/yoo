@@ -81,6 +81,7 @@ optimize if u NEED this after product done
       # [x] get timers from api
       # [x] if timer >=1: displayTimer component, else: createTimer component
       [] displayTimer frontend
+        [] if timer already 00 -> remove start_time
     [] bug: fix 0 input
     [] bug: i can see startTimer before I get a response from the API
   [] white download indicator on top
