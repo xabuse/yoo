@@ -72,11 +72,14 @@ optimize if u NEED this after product done
   [] timer page(default timer(pause, reset, start, set time))
     # [x] footer
     [] timer frontend https://excalidraw.com/#json=ifV5YyeHO12rr3IWUnLa3,1sD7j2IEcQ_iZ7M6wX9yiQ
-      # [x] input buttons
-      [] display digits on timer
-        [x] how from [1, 2, 3, 4] display 00h, 12m, 34s
-    [] model Timer(id, user_id, start_time, duration)
-    [] 
+      [] create timer
+        # [x] input buttons
+        # [x] display digits on timer
+          # [x] from [1, 2, 3, 4] display 00h, 12m, 34s
+          # [x] model Timer(id, user_id, start_time, duration)
+      [] show timer
+        [] how i should create transition
+    [] bug: fix 0 input, that 
   [] white download indicator on top
   [] pc version frontend optimization
     [] hover buttons style on pc
