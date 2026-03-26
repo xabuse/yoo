@@ -2,7 +2,7 @@ mobile first
 fuck good code, write code that works
 optimize if u NEED this after product done
 
-problem -> 20 min+ attempts to solve the problem -> ask ai about best practice -> keep trying to solve it yourself
+problem -> 20 min+ attempts to solve the problem with google -> ask ai about best practice -> keep trying to solve it yourself
 
 [] code helper(vue spa + laravel api(token auth))
   # [x] setup(cd backend && ./vendor/bin/sail up -d && cd ../frontend && npm run dev)
