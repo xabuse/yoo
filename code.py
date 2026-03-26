@@ -2,7 +2,10 @@ mobile first
 fuck good code, write code that works
 optimize if u NEED this after product done
 
-problem -> 20 min+ attempts to solve the problem with google -> ask ai about best practice -> keep trying to solve it yourself
+ai {
+fuck ai(not because it it will degrade my skills and speed but because it's very difficult to prevent that from happening), 
+but i will leave one use case: if i can't solve a problem for 3 hours, i will ask for advice from ai.
+}
 
 [] code helper(vue spa + laravel api(token auth))
   # [x] setup(cd backend && ./vendor/bin/sail up -d && cd ../frontend && npm run dev)
