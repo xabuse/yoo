@@ -71,17 +71,18 @@ optimize if u NEED this after product done
       # [x] highlight current page
   [] timer page(default timer(pause, reset, start, set time))
     # [x] footer
-    [] timer frontend https://excalidraw.com/#json=ifV5YyeHO12rr3IWUnLa3,1sD7j2IEcQ_iZ7M6wX9yiQ
+    # [x] timer frontend https://excalidraw.com/#json=ifV5YyeHO12rr3IWUnLa3,1sD7j2IEcQ_iZ7M6wX9yiQ
       # [x] create timer
         # [x] input buttons
         # [x] display digits on timer
           # [x] from [1, 2, 3, 4] display 00h, 12m, 34s
           # [x] model Timer(id, user_id, start_time, duration)
           # [x] save to db(request, controller)
-      [] show timer
-      [] get timers from api
-      [] if timer >=1: displayTimer component, else: createTimer component
+      # [x] get timers from api
+      # [x] if timer >=1: displayTimer component, else: createTimer component
+      [] displayTimer frontend
     [] bug: fix 0 input
+    [] bug: i can see startTimer before I get a response from the API
   [] white download indicator on top
   [] pc version frontend optimization
     [] hover buttons style on pc
