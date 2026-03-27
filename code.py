@@ -108,6 +108,7 @@ but i will leave one use case: if i can't solve a problem for 3 hours, i will as
     # [x] implement autocreate table in db with timer(current user, 10800 duration)
     [] if timer out - resetTimer()
   [] (things, that i should remember) page
+  [] button clisks animation on mobile, mb steal from https://www.anilibria.top
   [] download indicator on project page(many tasks)
   [] tasks donwload indicator([ ] yooooooooo)
   [] pc version frontend optimization
