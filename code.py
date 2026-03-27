@@ -1,6 +1,10 @@
+3h no pause
+decomposition in one file 
+need info -> documentation -> stackoverflow
 mobile first
 fuck good code, write code that works
-optimize if u NEED this after product done
+optimize if u need it AFTER PRODUCT DONE
+
 
 ai {
 fuck ai(not because it it will degrade my skills and speed but because it's very difficult to prevent that from happening), 
@@ -74,7 +78,7 @@ but i will leave one use case: if i can't solve a problem for 3 hours, i will as
 # [x] bug: after delete user i still can navigate from app with old token - solved after if 401 await originalFetch(url, options) - delete; in main js
   # [x] footer(projects, timer) component
       # [x] highlight current page
-  [] timer page(default timer(pause, reset, start, set time))
+  # [] timer page(default timer(pause, reset, start, set time))
     # [x] footer
     # [x] timer frontend https://excalidraw.com/#json=ifV5YyeHO12rr3IWUnLa3,1sD7j2IEcQ_iZ7M6wX9yiQ
       # [x] create timer
@@ -85,16 +89,18 @@ but i will leave one use case: if i can't solve a problem for 3 hours, i will as
           # [x] save to db(request, controller)
       # [x] get timers from api
       # [x] if timer >=1: displayTimer component, else: createTimer component
-      [] displayTimer
-        [] duration from seconds to 01:30:00
-        [] if start_time != null: dynamic duration
-        [] if timer already 00 -> remove start_time
-        [] play, pause button(pause_at(How much seconds left since Duration) + isPaused = 1)
-        [] delete button
-        [] reset button(remove start_time)
-    [] click animation in create timer
-    [] bug: fix 0 input
-    [] bug: i can see startTimer before I get a response from the API
+      # [] displayTimer
+      #   [] duration from seconds to 01:30:00
+      #   [] if start_time != null: dynamic duration
+      #   [] if timer already 00 -> remove start_time
+      #   [] play, pause button(pause_at(How much seconds left since Duration) + isPaused = 1)
+      #   [] delete button
+      #   [] reset button(remove start_time)
+    # [] click animation in create timer
+    # [] bug: fix 0 input
+    # [] bug: i can see startTimer before I get a response from the API
+  [] new timer idea(3h fix, play/reset button)
+  [] things, that i should remember page
   [] white download indicator on top
   [] pc version frontend optimization
     [] hover buttons style on pc
