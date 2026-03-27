@@ -6,8 +6,8 @@ fuck good code, write code that works
 optimize if u need it AFTER PRODUCT DONE
 
 
-ai {
-fuck ai(not because it it will degrade my skills and speed but because it's very difficult to prevent that from happening), 
+fuck ai {
+not because it it will degrade my skills and speed but because it's very difficult to prevent that from happening, 
 but i will leave one use case: if i can't solve a problem for 3 hours, i will ask for advice from ai.
 }
 
