@@ -100,7 +100,13 @@ but i will leave one use case: if i can't solve a problem for 3 hours, i will as
     # [] bug: fix 0 input
     # [] bug: i can see startTimer before I get a response from the API
   [] new timer idea(3h fix, play/reset button)
-  [] things, that i should remember page
+    # [x] default duration in db = 10800
+    # [x] implement 10800 => 3:00:00
+      # [x] create page -> get(start_time, duration), if (start_time): every 1 second update this.currentTime
+    [] implement play button(show if (!this.starttime), @click = create start_time, interval(every 1 second update this.currentTime))
+    [] implement reset button(show if (this.starttime), delete start_time, delete interval)
+    [] implement autocreate table in db with timer(current user, 10800 duration)
+  [] (things, that i should remember) page
   [] white download indicator on top
   [] pc version frontend optimization
     [] hover buttons style on pc
