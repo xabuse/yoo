@@ -1,4 +1,5 @@
 3h no pause
+random ambient music
 decomposition in one file 
 need info -> documentation -> stackoverflow
 mobile first
