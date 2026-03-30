@@ -1,5 +1,5 @@
 {
-  3h, 5 days per week,
+  3h 5 days per week in morning,
   random ambient music,
   no ai,
   documentation -> stackoverflow,
