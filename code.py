@@ -1,10 +1,9 @@
 {
   3h 5 days per week in morning with random ambient music,
   don't use ai, use documentation -> stackoverflow,
-  mobile first, write code now { 
-    write working code that you can write now(fuck good/optimized/smart code),
-    optimize the code !!!ONLY IF IT NECESSARY AFTER THE PRODUCT IS READY!!!
-  }
+  mobile first,
+  write working code that you can write now(fuck good/smart code),
+  otimize code in the optimization phase (not in the development phase)
 }
 
 [] code helper(vue spa + laravel api(token auth))
