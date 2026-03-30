@@ -108,19 +108,22 @@ but i will leave one use case: if i can't solve a problem for 3 hours, i will as
     # [x] implement reset button(show if (this.starttime), delete start_time, delete interval) | remove start_time on backend
     # [x] implement autocreate table in db with timer(current user, 10800 duration)
     # [x] if timer out - resetTimer()
-  [] (things, that i should remember) page
+  # [x] (things, that i should remember) page
     # [] footer
     # [x] add button
     # [x] autoincease textarea
      # [x] create Notes model with migration(user_id, content) and controller resources | php artisan make:model Note -mcr
     # [x] store() save note
     # [x] index() display all notes
-    [] implement click with only delete()
+    # [x] implement click with only delete()
       # [x] show note content 
-      [] destroy() button
+      # [x] destroy() button
   [] button clisks animation on mobile, mb steal from https://www.anilibria.top
-  [] download indicator on project page(many tasks)
-  [] tasks donwload indicator([ ] yooooooooo)
+  [] white download indicator on top
+    [] projects page
+    [] project page
+    [] note page
+    [] notes page
   [] pc version frontend optimization
     [] hover buttons style on pc
   [] refactoring + optimization
@@ -128,10 +131,10 @@ but i will leave one use case: if i can't solve a problem for 3 hours, i will as
       [] should i create foreign key for tken and user?
       [] store token in cookie(spa sanctum)
     [] cors config(csrf protection)
-  [] readme installation guide
-  [] api docs(scramble/?)
+  [] api docs(copy from laravel)
   [] create release branch
   [] drop on server
+  [] readme installation guide
   [] ?collab
   [] get feedback(tg chat)
 
