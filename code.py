@@ -107,8 +107,17 @@ but i will leave one use case: if i can't solve a problem for 3 hours, i will as
     # [x] implement play button(show if (!this.starttime), @click = create start_time, interval(every 1 second update this.currentTime)) | start_time to backend
     # [x] implement reset button(show if (this.starttime), delete start_time, delete interval) | remove start_time on backend
     # [x] implement autocreate table in db with timer(current user, 10800 duration)
-    [] if timer out - resetTimer()
+    # [x] if timer out - resetTimer()
   [] (things, that i should remember) page
+    # [] footer
+    # [x] add button
+    # [x] autoincease textarea
+     # [x] create Notes model with migration(user_id, content) and controller resources | php artisan make:model Note -mcr
+    # [x] store() save note
+    # [x] index() display all notes
+    [] implement click with only delete()
+      # [x] show note content 
+      [] destroy() button
   [] button clisks animation on mobile, mb steal from https://www.anilibria.top
   [] download indicator on project page(many tasks)
   [] tasks donwload indicator([ ] yooooooooo)
