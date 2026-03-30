@@ -1,6 +1,6 @@
 {
   3h 5 days per week in morning with random ambient music,
-  don't use ai, use documentation -> stackoverflow,
+  don't use ai | use documentation -> stackoverflow,
   mobile first,
   write working code that you can write now(fuck good/smart code),
   otimize code in the optimization phase (not in the development phase)
