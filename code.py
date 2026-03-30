@@ -109,7 +109,7 @@ but i will leave one use case: if i can't solve a problem for 3 hours, i will as
     # [x] implement autocreate table in db with timer(current user, 10800 duration)
     # [x] if timer out - resetTimer()
   # [x] (things, that i should remember) page
-    # [] footer
+    # [x] footer
     # [x] add button
     # [x] autoincease textarea
      # [x] create Notes model with migration(user_id, content) and controller resources | php artisan make:model Note -mcr
