@@ -1,15 +1,12 @@
-3h no pause
-random ambient music
-decomposition in one file 
-need info -> documentation -> stackoverflow
-mobile first
-fuck good code, write code that works
-optimize if u need it AFTER PRODUCT DONE
-
-
-fuck ai {
-not because it it will degrade my skills and speed but because it's very difficult to prevent that from happening, 
-but i will leave one use case: if i can't solve a problem for 3 hours, i will ask for advice from ai.
+{
+  4h,
+  5 days per week,
+  random ambient music,
+  no ai,
+  documentation -> stackoverflow,
+  mobile first,
+  write working code that you can write now(fuck good/optimized/smart code),
+  optimize the code !!!ONLY IF IT NECESSARY AFTER THE PRODUCT IS READY!!!
 }
 
 [] code helper(vue spa + laravel api(token auth))
