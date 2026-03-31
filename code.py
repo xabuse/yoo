@@ -1,9 +1,9 @@
 {
-  3h 5 days per week in morning with random ambient music,
-  don't use ai | use documentation -> stackoverflow,
-  mobile first,
-  write working code that you can write now(fuck good/smart code),
-  otimize code in the optimization phase (not in the development phase)
+  (3 часа 5 дней в неделю с утра под брейккорчик/амбиент),
+  (don't use ai | use documentation -> stackoverflow),
+  (mobile first),
+  (во время этапа кодинга кодь, а во время этапа оптимизации оптимизируй, не смешивай),
+  (понимай 100% кода в своем проекте, понимай 100% контекста информации, которую читаешь)
 }
 
 [] code helper(vue spa + laravel api(token auth))
@@ -119,7 +119,7 @@
   # [x] api docs(copy from laravel)
   # [x] create develop branch
   [] drop on server
-    [] git clone
+    # [x] git clone
     [] setup
   [] readme installation guide
   [] ?collab
