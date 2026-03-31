@@ -112,22 +112,15 @@
     # [x] implement click with only delete()
       # [x] show note content 
       # [x] destroy() button
-  [] button clisks animation on mobile, mb steal from https://www.anilibria.top
-  [] white download indicator on top
-    [] projects page
-    [] project page
-    [] note page
-    [] notes page
-  [] pc version frontend optimization
-    [] hover buttons style on pc
-  [] refactoring + optimization
-    [] token
-      [] should i create foreign key for tken and user?
-      [] store token in cookie(spa sanctum)
-    [] cors config(csrf protection)
-  [] api docs(copy from laravel)
-  [] create release branch
+  // # [] button clisks animation on mobile, mb steal from https://www.anilibria.top
+  # [x] white download indicator on top
+  # [x] pc version frontend optimization
+    # [x] hover buttons style on pc
+  # [x] api docs(copy from laravel)
+  # [x] create develop branch
   [] drop on server
+    [] git clone
+    [] setup
   [] readme installation guide
   [] ?collab
   [] get feedback(tg chat)
@@ -136,4 +129,4 @@
 
 [] сайтик или приложение(или 2 в одном) как блокнотик короч. ну вот в жизни. чисто записная книжка, как в golden boy со страничками и листанием
 
-[] cbt app with statistics(diet, consistent sleep, exercises, meditations)
+[] cbt app with statistics(diet, consistent sleep, exercises)
