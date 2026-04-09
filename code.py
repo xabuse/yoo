@@ -113,11 +113,7 @@
   # [x] api docs(copy from laravel)
   # [x] create develop branch
   [] drop on server
-    # [x] git clone
-    [] setup
-  [] readme installation guide
-  [] ?collab
-  [] get feedback(tg chat)
+    [] try limiting memory to 512 mb
 
 [] anime site
 
