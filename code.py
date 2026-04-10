@@ -1,5 +1,5 @@
 ПОХУЙ НА КОД, НЕ ПОХУЙ НА БАБКИ
-что я хочу сделать? -> как я это хочу сделать?(тут можно ии подключить, чтобы построчно объяснил)->делаем
+чего то не выкупаешь? -> читай доку
 
 [] code helper(vue spa + laravel api(token auth))
   # [x] setup(cd backend && ./vendor/bin/sail up -d && cd ../frontend && npm run dev)
