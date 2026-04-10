@@ -113,9 +113,9 @@
   # [x] api docs(copy from laravel)
   # [x] create develop branch
   [] drop on server
-    [] increase vps to 2core 2gb
-    [] try limiting memory(if still don't work)
-    [] set up cors(csrf) ip address in frontend
+    # [x] increase vps to 1core 2gb
+    # [x] fix /localhost in frontend
+    [] try one more time 
 
 [] anime site
 
