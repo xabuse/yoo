@@ -2,7 +2,7 @@
 ии слоп реально въебал индустрию кодинга(теперь нью типы не могут делать нихуя) И ЭТО АХУЕННО
 чего то не выкупаешь? -> читай доку
 
-[] code helper(vue spa + laravel api(token auth))
+# [x] code helper(vue spa + laravel api(token auth))
   # [x] setup(cd backend && ./vendor/bin/sail up -d && cd ../frontend && npm run dev)
   # [x] git repo
   # [x] vue router course https://vueschool.io/courses/vue-router-4-for-everyone - skipped
@@ -114,10 +114,10 @@
     # [x] hover buttons style on pc
   # [x] api docs(copy from laravel)
   # [x] create develop branch
-  [] drop on server
+  # [x] drop on server
     # [x] increase vps to 1core 2gb
     # [x] fix /localhost in frontend
-    [] try one more time 
+    # [x] try one more time 
 
 [] anime site
 
