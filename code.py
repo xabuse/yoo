@@ -118,8 +118,9 @@
     # [x] increase vps to 1core 2gb
     # [x] fix /localhost in frontend
     # [x] try one more time 
+  [] if i close tab in browser and don't save tasks - ask me: are u sure?
 
-[] anime site
+[] anime site(in dev-helper)
 
 [] сайтик или приложение(или 2 в одном) как блокнотик короч. ну вот в жизни. чисто записная книжка, как в golden boy со страничками и листанием
 
