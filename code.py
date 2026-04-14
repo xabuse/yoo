@@ -118,7 +118,7 @@
     # [x] increase vps to 1core 2gb
     # [x] fix /localhost in frontend
     # [x] try one more time 
-  [] fix: my eyes are hurt while i write tasks(text too bold?)
+  [] fix: my eyes are hurt while i write tasks(text too bold?) Consolas???
   [] if i close tab in browser and don't save tasks - ask me: are u sure?
 
 [] anime site(in dev-helper)
