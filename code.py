@@ -119,6 +119,7 @@
     # [x] fix /localhost in frontend
     # [x] try one more time 
   [] if i close tab in browser and don't save tasks - ask me: are u sure?
+  [] fix: my eyes are hurt while i write tasks
 
 [] anime site(in dev-helper)
 
