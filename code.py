@@ -120,6 +120,7 @@
     # [x] try one more time 
   [] fix: my eyes are hurt while i write tasks(text too bold?) Consolas???
   [] if i close tab in browser and don't save tasks - ask me: are u sure?
+  [] timer end sound
 
 [] anime site(in dev-helper)
 
