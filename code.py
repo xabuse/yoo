@@ -119,6 +119,7 @@
     # [x] fix /localhost in frontend
     # [x] try one more time 
   # [x] fix: my eyes are hurt while i write tasks(text too bold?) Consolas??? or color like 158 149 109
+  [] move only words to a new line 
   [] if i close tab in browser and don't save tasks - ask me: are u sure?
   [] timer end sound
 
