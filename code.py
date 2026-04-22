@@ -122,6 +122,7 @@
   [] move only words to a new line 
   [] if i close tab in browser and don't save tasks - ask me: are u sure?
   [] timer end sound
+  [] notification that the task cannot be empty and its illumination
 
 [] anime site(in dev-helper)
 
