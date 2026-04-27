@@ -124,7 +124,7 @@
   # [x] fix: my eyes are hurt while i write tasks(text too bold?) Consolas??? or color like 158 149 109
   [] move only words to a new line 
   [] if i close tab in browser and don't save tasks - ask me: are u sure?
-  [] timer end sound
+  [] timer end sound(ambient?)
   [] notification that the task cannot be empty and its illumination
 
 [] anime site(in dev-helper)
