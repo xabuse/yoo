@@ -126,6 +126,7 @@
   [] if i close tab in browser and don't save tasks - ask me: are u sure?
   [] timer end sound(ambient?)
   [] notification that the task cannot be empty and its illumination
+  [] добавить затемнение всего того, что стоит выше и оставить норм видимым только самые низкие штуки в декомпозиции
 
 [] anime site(in dev-helper)
 
